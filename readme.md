@@ -11,10 +11,10 @@
     <a href="https://github.com/getcert/redhat-ex200/stargazers">
       <img alt="Stars" src="https://img.shields.io/github/stars/getcert/redhat-ex200?color=75AADB" />
     </a>
-    <a href="https://github.com/getcert/redhat-ex200/pulls">
+    <a href="https://github.com/getcert/redhat-ex200/network/members">
       <img alt="Forks" src="https://img.shields.io/github/forks/getcert/redhat-ex200?color=75AADB" />
     </a>
-    <a href="https://github.com/getcert/redhat-ex200/pulls">
+    <a href="https://github.com/getcert/redhat-ex200/blob/main/LICENSE">
       <img alt="License" src="https://img.shields.io/github/license/getcert/redhat-ex200?color=75AADB" />
     </a>
   </p>
