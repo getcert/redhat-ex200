@@ -15,7 +15,7 @@
       <img alt="Forks" src="https://img.shields.io/github/forks/getcert/redhat-ex200?color=75AADB" />
     </a>
     <a href="https://github.com/getcert/redhat-ex200/blob/main/LICENSE">
-      <img alt="License" src="https://img.shields.io/github/license/getcert/redhat-ex200?color=75AADB" />
+      <img alt="License" src="https://img.shields.io/github/license/getcert/redhat-ex200" />
     </a>
   </p>
 </p>
