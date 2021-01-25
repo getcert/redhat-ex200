@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="66px" src="https://res.cloudinary.com/dkmuc5wf9/image/upload/v1611511262/getcert-brand/getcert-icon.svg" align="center" alt="GetCert " />
+  <img width="39px" src="https://res.cloudinary.com/dkmuc5wf9/image/upload/v1611592207/getcert-brand/image-01_b0sbwl.svg" align="center" alt="GetCert " />
   <h1 align="center">Red Hat - EX200</h1>
   <p align="center">The skills tested in this exam are the foundation for system administration across all Red Hat® products.</p>
   <p align="center">For details and how to use this repo please visit the <a href="https://getcert.org/getting-started">Getting Started</a> page.
@@ -22,3 +22,12 @@
 
 ---
 
+# 
+
+## Flashcards
+
+
+## Playlists
+
+
+## Playground
