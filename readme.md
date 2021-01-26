@@ -109,7 +109,7 @@ vagrant destroy -f
 192.168.1.222     ·······        use this ip for LAN access 
 ```
 
-### Vbox List
+### VBox List
 ```
 VBoxManage list runningvms
    "bastion" {ecb55eeb-7de3-4ecc-a812-71b29fb1c89f}
