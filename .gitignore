@@ -1,0 +1,5 @@
+
+# playground ignore files
+playground/virtualbox/*.log
+playground/virtualbox/.vagrant
+playground/virtualbox/synced
