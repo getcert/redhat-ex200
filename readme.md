@@ -53,7 +53,7 @@ vagrant plugin install vagrant-vbguest
 ### Usage
 
 >  First time it take around 30 min for setup and make essential configurations
->  Next time vagrant need just a few seconds... 
+>>  Next time vagrant need just a few seconds... 
 
 ```
 
