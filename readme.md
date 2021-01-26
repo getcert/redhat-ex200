@@ -36,31 +36,33 @@
 
 ### Requirement
 
-+  Vagrant
-+  VirtualBox
-+  2CPU cores
-+  5GB of local RAM
+>  +  Vagrant
+>  +  VirtualBox
+>  +  2CPU cores
+>  +  5GB of local RAM
 
 ### Plugins
 
-```
-# Please first install this plugins:
+>  Please first install this plugins:
 
+```
 vagrant plugin install vagrant-hostmanager
 vagrant plugin install vagrant-vbguest
 ```
 
 ### Usage
 
+>  First time it take around 30 min for setup and make essential configurations
+>  Next time vagrant need just a few seconds... 
+
 ```
-# First time it take around 30 min for setup and make essential configurations
-# Next time vagrant need just a few seconds... 
 
 # ignition! this command setup or turn on all the machines
 
 vagrant up
 
 # if you make some change on the extras files, to apply it use the flag --provission
+
 vagrant up --provision
 
 ######### the prompt ask you for chose the bridge interface, common cases use **eth0** or the firs available real interface.
