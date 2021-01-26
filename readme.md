@@ -101,11 +101,12 @@ vagrant destroy -f
 
 ```
 172.25.250.254    bastion        bastion.lab.example.com
-192.168.1.222     use this ip for LAN access 
 
 172.25.250.9      workstation    workstation.lab.example.com
 172.25.250.10     servera        servera.lab.example.com
 172.25.250.11     serverb        serverb.lab.example.com
+
+192.168.1.222     ·······        use this ip for LAN access 
 ```
 
 ### Vbox List
