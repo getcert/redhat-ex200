@@ -32,7 +32,7 @@
 
 ## VirtualBox flavor.
 
-### please `cd playground/virtualbox/` and follow this guide
+>  `cd playground/virtualbox/` and follow this guide
 
 ### Requirement
 
