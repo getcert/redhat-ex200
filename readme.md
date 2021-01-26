@@ -24,6 +24,7 @@
 
 # Flashcards
 
+![](repo-img/redhat-ex200-flashcards.png)
 
 # Playlists
 
