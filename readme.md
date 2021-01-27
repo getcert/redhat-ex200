@@ -78,10 +78,29 @@ vagrant up --provision
 
 # shutdown! this command turn off all the machiness
 vagrant down
-
-# danger! this command remove all the machines
-vagrant destroy -f
 ```
+
+
+### usefull vagrant commands:
+
+> to avoid re-provision over and over again when you want start from a clean instance use `snapshot save` the first time you deploy the lab and `snaphost restore` every single time you want a fresh and quick instance.
+
+```
+vagrant destroy -f - Shuts down and destroys the environment
+vagrant halt - Shuts down the environment VMs (can be booted up with vagrant up)
+vagrant suspend - Puts the VMs in a suspended state
+vagrant resume - Takes VMs out of a suspended state
+
+# first time you have the lab up and running save it with a snapshot
+vagrant snapshot save base-00
+
+# to list all the saved snapshot
+vagrant snapshot list
+
+# to restore a snapshot
+vagrant snapshot restore base-00
+```
+
 
 ### Synced folder between HOST (your machine) and GUEST (workstation)
 
