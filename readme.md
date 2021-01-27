@@ -81,8 +81,7 @@ vagrant down
 ```
 
 
-### usefull vagrant commands:
-
+### Useful vagrant commands:
 > to avoid re-provision over and over again when you want start from a clean instance use `snapshot save` the first time you deploy the lab and `snaphost restore` every single time you want a fresh and quick instance.
 
 ```
