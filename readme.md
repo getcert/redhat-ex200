@@ -67,6 +67,7 @@ vagrant up
 vagrant up --provision
 
 ######### the prompt ask you for chose the bridge interface, common cases use **eth0** or the firs available real interface.
+
 ######### put the number of your interface and hit enter.
 
 1) eth0
@@ -74,10 +75,6 @@ vagrant up --provision
     bastion: Which interface should the network bridge to? 1
 
 #########
-
-
-# shutdown! this command turn off all the machiness
-vagrant down
 ```
 
 
